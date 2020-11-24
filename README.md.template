@@ -1,0 +1,69 @@
+# {{name:dot}} <!-- TODO: badge -->
+
+> <!-- TODO: Overview -->
+<!-- TODO: description -->
+
+
+## Install
+
+```
+$ npm install {{name:dot}}
+```
+
+
+## Usage
+
+```js
+<!-- TODO: usage -->
+```
+
+## API
+
+<!-- repeat method start -->
+### method(argument1, [options])
+
+<!-- method description -->
+
+#### argument1
+
+Type: `string` `Array`
+
+<!-- argument1 description -->
+
+
+#### options
+
+Type: `Object`
+
+<!-- options description -->
+
+<!-- options repeat start -->
+##### option1
+
+Type: `boolean` `Array` `Object`<br>
+Default: `true`
+
+<!-- option1 description -->
+
+```js
+// option1 example
+```
+
+<!-- repeat options end -->
+<!-- repeat method end -->
+
+
+
+## other
+
+
+## Related
+
+<!--
+- [atu4403/remind\_task](https://github.com/atu4403/remind_task)
+-->
+
+
+## License
+
+MIT © [atu4403](https://github.com/atu4403)

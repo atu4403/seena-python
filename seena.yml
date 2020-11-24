@@ -1,0 +1,5 @@
+mode: template
+remove: # 対象ディレクトリで削除するファイル名
+  - README.rst
+ignore: # このリポジトリでseenaコマンドの対象外にするファイル名
+  - README.md
